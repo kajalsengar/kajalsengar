@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 -->
 
-# connect with me👇
+# -connect with me👇
 <p float="left">
     <a href=https://www.linkedin.com/in/kajal-sengar-1755922a9?" title="Direct to LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
