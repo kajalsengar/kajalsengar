@@ -19,6 +19,6 @@
   </p>
    <details>
   <summary><b>⚡ Github Status </b></summary>
-<img height="118em" src="https://github-readme-stats.vercel.app/api?username=KajalDev108&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="KajalDev108" />
-<img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KajalDev108&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="kajalDev108"/>
-<img height="118em" src="https://github-readme-streak-stats.herokuapp.com/?user=KajalDev108&theme=midnight-purple&hide_border=true"/>
+<img height="118em" src="https://github-readme-stats.vercel.app/api?username=kajalsengar&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="kajalsengar" />
+<img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajalsengar&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="kajalsengar"/>
+<img height="118em" src="https://github-readme-streak-stats.herokuapp.com/?user=kajalsengar&theme=midnight-purple&hide_border=true"/>
