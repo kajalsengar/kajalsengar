@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with 
 - 💬 Ask me about HTML, CSS, javaScript, JAVA
 - 📫 How to reach me: sengarkajal089@gmail.com
-- ⚡ Fun fact: ....
+- ⚡ Fun fact: ...
 -->
 
 # -connect with me👇
