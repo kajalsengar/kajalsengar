@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Java project & Database Connectvity
 - 💬 Ask me about HTML, CSS, javaScript, JAVA
 - 📫 How to reach me: sengarkajal089@gmail.com
-- ⚡ Fun fact: process day by day 
+- ⚡ Fun fact: see tomorrow 
 -->
 
 # -connect with me👇
