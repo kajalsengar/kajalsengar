@@ -13,7 +13,7 @@
 <p float="left">
     <a href=https://www.linkedin.com/in/kajal-sengar-1755922a9?" title="Direct to LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href= "https://www.hackerrank.com/profile/sengar kajal089" title="Direct to Hacker Rank" target="_blank">
+    <a href= "https://www.hackerrank.com/profile/sengarkajal089" title="Direct to Hacker Rank" target="_blank">
     <img src="https://img.shields.io/badge/Hackerrank-8B89CC?style=for-the-badge&logo=hackerrank&logoColor=gr" alt="portfolio" /></a>
   </p>
    <details>
