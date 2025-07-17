@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Backend Devlopment
-- 🌱 I’m currently learning Spring-Boot , JavaScript
+- 🌱 I’m currently learning Spring-Boot , JavaScript, Node.js
 - 👯 I’m looking to collaborate on Java project & Database Connectvity
 - 💬 Ask me about HTML, CSS, javaScript, JAVA
 - 📫 How to reach me: sengarkajal089@gmail.com
