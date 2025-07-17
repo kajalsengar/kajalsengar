@@ -1,7 +1,7 @@
 ## Hi i'm kajal sengar  👋
 
 
-- 🔭 I’m currently working on Java Devlopment
+- 🔭 I’m currently working on Backend Devlopment
 - 🌱 I’m currently learning Spring-Boot , JavaScript
 - 👯 I’m looking to collaborate on Java project & Database Connectvity
 - 💬 Ask me about HTML, CSS, javaScript, JAVA
